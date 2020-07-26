@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  WeatherApp
 //
-//  Created by NAVEEN on 26/07/20.
-//  Copyright © 2020 NAVEEN. All rights reserved.
+//  Created by VISHAL on 26/07/20.
+//  Copyright © 2020 VISHAL. All rights reserved.
 //
 
 import UIKit
